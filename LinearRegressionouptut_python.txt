@@ -1,0 +1,7 @@
+Y_test (Actual o/p)
+55     1461
+157    4833
+Name: cnt, dtype: int64
+
+Y_Pred (Predicted o/p)
+Out[23]: array([ 1329.95869422,  4954.9069724 ])

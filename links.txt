@@ -1,0 +1,3 @@
+https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef
+https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+

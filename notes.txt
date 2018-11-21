@@ -1,0 +1,11 @@
+
+capping and loading - for outlier analysis - instead of removing the outliers or imputing them, repace the values with cap (highest value)
+
+properly checking the variables
+mean/median or mode for imputing (how to select depending on the data - remove a single value out of a variable and impute using mean/ median
+/mode/knn and then check which gives closer match)
+
+check correlation for categorical variables using chi-square test
+
+
+
